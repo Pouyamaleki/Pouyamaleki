@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouyamaleki&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pouyamaleki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pouyamaleki&theme=github_dark)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Pouyamaleki&icon=0&color=0)
