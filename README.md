@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pouyamaleki&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouyamaleki&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pouyamaleki&theme=github_dark)
 
 ---
